@@ -136,5 +136,11 @@
         "key": "key21",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "uaccsomz220cvhh1",
+        "key": "key22",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
     }
 ]
